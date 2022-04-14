@@ -20,3 +20,5 @@ Satte text till resursen "hello_message".
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 ```
+Screenshot av appen
+![](Screenshot_20220414_233633.png)
